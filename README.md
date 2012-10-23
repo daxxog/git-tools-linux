@@ -1,4 +1,4 @@
-daxxog.com
+git-tools-linux
 ==========
 
-Public repo for daxxog.com
+Shell scripts to easily add, commit, and push all in one command.
