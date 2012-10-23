@@ -11,6 +11,8 @@ curl -sS https://raw.github.com/daxxog/git-tools-linux/master/.gitignore >> .git
 tar xvfz git-tools-linux.tar.gz
 rm git-tools-linux.tar.gz
 mv *git-tools-linux* devtools
+cd devtools
+nano gitpush.sh
 ```
 
 Usage:
@@ -19,3 +21,5 @@ Usage:
 cd devtools
 ./gacp.sh
 ```
+
+*Note: you must edit gitpush.sh before using.*
