@@ -13,6 +13,7 @@ rm git-tools-linux.tar.gz
 mv *git-tools-linux* devtools
 cd devtools
 nano gitpush.sh
+cd ..
 ```
 
 Usage:
